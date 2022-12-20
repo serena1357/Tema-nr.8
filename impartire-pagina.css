@@ -1,0 +1,23 @@
+.h { 
+    background:lightblue; 
+    width:100%; 
+    height:70px;
+}
+.aside-left { 
+    background:rgb(197, 167, 69); 
+    width:20%; 
+    height:400px; 
+    float:left;
+}
+.m { 
+    background:peachpuff;
+    width:80%; 
+    height:400px; 
+    float:right;
+}
+.f { 
+    background:lightgrey; 
+    width:100%; 
+    height:100px; 
+    clear:both;
+}
